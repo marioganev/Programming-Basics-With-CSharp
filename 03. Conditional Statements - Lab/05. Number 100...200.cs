@@ -1,6 +1,6 @@
 using System;
 
-namespace conditionalStatements
+namespace 100to200Interval
 {
     class Program
     {
