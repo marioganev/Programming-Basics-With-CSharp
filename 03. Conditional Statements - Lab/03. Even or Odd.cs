@@ -1,6 +1,6 @@
 using System;
 
-namespace conditionalStatements
+namespace EvenOrOdd
 {
     class Program
     {
